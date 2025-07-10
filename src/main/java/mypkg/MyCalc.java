@@ -26,6 +26,7 @@ public class MyCalc {
 		System.out.println("diff is :"+calc.diff(20, 30));
 		System.out.println("mult is :"+calc.mult(20, 30));
 		calc.greetdemo();
+		System.out.println("My Name is Karan");
 	}
 
 }
